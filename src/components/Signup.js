@@ -1,4 +1,3 @@
-// src/components/Signup.js
 import React, { useState } from "react";
 
 const Signup = () => {
